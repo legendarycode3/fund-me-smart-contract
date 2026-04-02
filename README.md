@@ -4,14 +4,6 @@
 
  *The FundMe Project* smart contract enables transparent, "decentralized crowdfunding", acting like a programmable Kickstarter on the blockchain. Its core purpose is to "securely accept native cryptocurrency donations (fund)", "track contributor data", "enforce a minimum USD value using Chainlink oracles", and allow "authorized withdrawals (withdraw)".  
 
-1.Proper ReadMe
-
-2. integration Test
-3. 
-## USED THIS PROGRAMATIVE VERIFICATION, WHEN TRYING TO DEPLOY WITH ETHER_API_KEY , WHEN USING Makefile 
-1. Programatic verification 
-   
-2. Push on github
 
 
 
