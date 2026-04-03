@@ -98,3 +98,19 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+    ├──script
+    │   ├── DeployRaffle.s.sol
+    │   ├── HelperConfig.s.sol
+    │   └── Interaction.s.sol
+    ├── src
+    │   └── Raffle.sol
+    └── test
+        ├── integration
+        │   └── IntegrationTest.t.sol
+        ├── mocks
+        │   └── LinkToken.sol
+        └── unit
+            └── RaffleTest.t.sol
+        ├── foundry.toml
+        └── README.md
