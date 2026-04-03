@@ -18,7 +18,7 @@
      >  cd fund-me-smart-contract </br>
    
  2. Install dependencies
-    > forge install smartcontractkit/chainlink-brownie-contracts@0.6.1
+    > forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 </br>
     > make install
     
  4. Build the project
