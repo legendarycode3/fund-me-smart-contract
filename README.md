@@ -101,6 +101,7 @@ $ cast --help
 
 
 ## Configuration
+Create a .env file with the following variables:
 
 
 ## Project Structure
