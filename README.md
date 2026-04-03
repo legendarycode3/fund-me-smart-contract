@@ -19,7 +19,8 @@
    
  2. Install dependencies
     
- 4. Build the project
+ 3. Build the project
+    > make build
        
 
 
