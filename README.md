@@ -1,4 +1,4 @@
-## ABOUT PROJECT:
+# ABOUT PROJECT:
 
 **Fund-Me Project**: This is a minimal project  allowing user to fund the contract owner with donations. The smart contract accepts ETH as donations, dominated in USD. Donations has minimum USD value , otherwise they are rejected. The value is priced using a Chainlink Price Feed , and the smart contract keeps track of the  doners in case they are to be rewarded in the future.
 
@@ -9,6 +9,7 @@
 
 
 ## Prerequisites
+
 
 ## Installation
   1. Clone the repository
