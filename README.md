@@ -18,8 +18,9 @@
      >  cd fund-me-smart-contract </br>
    
  2. Install dependencies
+    > make install
     
- 3. Build the project
+ 4. Build the project
     > make build
        
 
