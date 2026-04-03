@@ -5,7 +5,10 @@
  *The FundMe Project* smart contract enables transparent, "decentralized crowdfunding", acting like a programmable Kickstarter on the blockchain. Its core purpose is to "securely accept native cryptocurrency donations (fund)", "track contributor data", "enforce a minimum USD value using Chainlink oracles", and allow "authorized withdrawals (withdraw)".  
 
 
-**Getting Started**
+## Getting Started
+
+
+## Prerequisites
 
 
 ## Foundry
