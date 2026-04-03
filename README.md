@@ -11,6 +11,7 @@
 ## Prerequisites
 
 ## Installation
+  1. Clone the repository
 
 
 ## Foundry
