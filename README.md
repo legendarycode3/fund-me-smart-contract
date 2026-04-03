@@ -8,7 +8,8 @@
 ## Technology Stack
 * Solidity - Smart contract programming language
 * Foundry - Development framework and testing suite
-* Chainlink Brownie Contracts 
+* Chainlink Brownie Contracts
+* Chainlink Data Feeds
 
 
 ## Getting Started
