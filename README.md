@@ -8,11 +8,14 @@
 ## Getting Started
 
 
-## Prerequisites
+### Prerequisites
 
 
 ### Installation
   1. Clone the repository
+
+     > git clone https://github.com/legendarycode3/fund-me-smart-contract.git
+       
 
 
 ## Foundry
