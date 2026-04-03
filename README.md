@@ -8,7 +8,7 @@
 ## Getting Started
 
 
-### Prerequisites
+## Prerequisites
 
 
 ### Installation
