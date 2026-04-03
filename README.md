@@ -99,6 +99,8 @@ $ anvil --help
 $ cast --help
 ```
 
+
+## Project Structure
     ├──script
     │   ├── DeployRaffle.s.sol
     │   ├── HelperConfig.s.sol
