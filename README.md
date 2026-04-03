@@ -7,7 +7,7 @@
 
 ## Technology Stack
 * Solidity - Smart contract programming language
-* Foundry -
+* Foundry - Development framework and testing suite
 
 
 ## Getting Started
