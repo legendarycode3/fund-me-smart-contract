@@ -109,17 +109,18 @@ Create a .env file with the following variables:
 
 ## Project Structure
     ├──script
-    │   ├── DeployRaffle.s.sol
+    │   ├── DeployFundMe.s.sol
     │   ├── HelperConfig.s.sol
-    │   └── Interaction.s.sol
+    │   └── Interactions.s.sol
     ├── src
-    │   └── Raffle.sol
+        ├── PriceConverterLibrary.sol
+    │   └── FundMe.sol
     └── test
         ├── integration
-        │   └── IntegrationTest.t.sol
+        │   └── FundMeTestIntegrationOrIntetractionTest.t.sol
         ├── mocks
-        │   └── LinkToken.sol
+        │   └── MockV3Aggregator.sol
         └── unit
-            └── RaffleTest.t.sol
+            └── FundMeTest.t.sol
         ├── foundry.toml
         └── README.md
