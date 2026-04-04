@@ -57,7 +57,9 @@ https://book.getfoundry.sh/
 $ forge build
 ```
 
-### Test
+### Testing
+Run all tests: </br>
+
 
 ```shell
 $ forge test
@@ -85,8 +87,8 @@ $ anvil
 ```shell
 $ forge script script/DeployFundMe.s.sol:DeployFundMe --rpc-url <your_rpc_url> --private-key <your_private_key>
 ```
-Deploy to Sepolia testnet:
-make deploy-sepolia
+Deploy to Sepolia testnet: </br>
+> make deploy-sepolia
 
 ### Cast
 
