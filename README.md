@@ -75,6 +75,10 @@ Run specific test: </br>
 ```shell
 forge test --mt testFunctionName
 ```
+Test coverage: </br>
+```shell
+make coverage
+```
 
 ### Format
 
