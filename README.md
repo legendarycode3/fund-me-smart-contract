@@ -25,8 +25,10 @@
      >  cd fund-me-smart-contract </br>
    
  2. Install dependencies
-    > forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 </br>
-    ```shell
+     ```shell
+       forge install smartcontractkit/chainlink-brownie-contracts@0.6.1  
+     ```
+     ```shell
        forge install foundry-rs/forge-std 
     ```
     ```shell
