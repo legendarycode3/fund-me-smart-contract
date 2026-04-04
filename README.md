@@ -58,12 +58,13 @@ $ forge build
 ```
 
 ### Testing
+
 Run all tests: </br>
-
-
 ```shell
 $ forge test
 ```
+Or </br>
+> make test
 
 ### Format
 
