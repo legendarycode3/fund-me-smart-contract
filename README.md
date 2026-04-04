@@ -30,7 +30,10 @@
     > make install
     
  4. Build the project
-    > make build
+    ```shell
+      make build
+    ```
+
        
 
 
