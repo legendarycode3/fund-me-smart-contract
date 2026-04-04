@@ -67,6 +67,10 @@ Or </br>
 ```shell
 make test
 ```
+Run tests with verbosity: </br>
+```shell
+make test -vvv
+```
 
 ### Format
 
