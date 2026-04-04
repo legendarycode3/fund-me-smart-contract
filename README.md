@@ -82,11 +82,11 @@ $ anvil
 ```
 
 ### Deploy
-
-Deploying to Sepolia testnet:
 ```shell
 $ forge script script/DeployFundMe.s.sol:DeployFundMe --rpc-url <your_rpc_url> --private-key <your_private_key>
 ```
+Deploy to Sepolia testnet:
+make deploy-sepolia
 
 ### Cast
 
