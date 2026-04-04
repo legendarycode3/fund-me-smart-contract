@@ -19,14 +19,16 @@
 
 
 ### Installation
-  1. Clone the repository
+  1. Clone the repository: </br>
 
-     > git clone https://github.com/legendarycode3/fund-me-smart-contract </br>
+     ```shell
+        git clone https://github.com/legendarycode3/fund-me-smart-contract 
+     ```
      ```shell
         cd fund-me-smart-contract
      ```
    
- 2. Install dependencies
+ 1. Install dependencies: </br>
      ```shell
        forge install smartcontractkit/chainlink-brownie-contracts@0.6.1  
      ```
@@ -37,7 +39,7 @@
       make install
     ```
     
- 4. Build the project:
+ 4. Build the project: </br>
     ```shell
       make build
     ```
@@ -49,7 +51,7 @@
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
-Foundry consists of:
+Foundry consists of: </br>
 
 - **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
 - **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
@@ -116,7 +118,7 @@ $ forge script script/DeployFundMe.s.sol:DeployFundMe --rpc-url <your_rpc_url> -
 Deploy to Sepolia testnet: </br>
 > make deploy-sepolia
 
-### Cast
+### Cast </br>
 
 ```shell
 $ cast <subcommand>
