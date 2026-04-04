@@ -64,7 +64,9 @@ Run all tests: </br>
 $ forge test
 ```
 Or </br>
-> make test
+```shell
+make test
+```
 
 ### Format
 
