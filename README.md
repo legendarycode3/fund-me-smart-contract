@@ -71,6 +71,10 @@ Run tests with verbosity: </br>
 ```shell
 make test -vvv
 ```
+Run specific test: </br>
+```shell
+forge test --mt testFunctionName
+```
 
 ### Format
 
