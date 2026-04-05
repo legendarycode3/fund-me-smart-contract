@@ -36,7 +36,8 @@
        forge install foundry-rs/forge-std 
     ```
     ```shell  
-      make install  Or   forge install
+      make install  Or </br>
+      forge install
     ```
     
     
