@@ -38,6 +38,11 @@
     ```shell
       make install
     ```
+    Or </br>
+    ```shell
+      forge install
+    ```
+    
     
  4. Build the project: </br>
     ```shell
