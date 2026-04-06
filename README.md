@@ -15,6 +15,7 @@ The FundMe contract enables decentralized fundraising with the following key fea
 Minimum Contribution: $5 USD equivalent in ETH
 Price Oracle Integration: Uses Chainlink ETH/USD price feeds (Sepolia testnet)
 Access Control: Only contract deployer can withdraw funds
+Fallback Support: Automatically processes direct ETH transfers as donations
   
 
 ## Technology Stack
