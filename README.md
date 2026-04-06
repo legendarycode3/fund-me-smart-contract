@@ -184,3 +184,4 @@ The contract implements several gas optimization techniques:
 
 ## Author
 LegendaryCode
+* [linkedin.com/in/legendarycode3/](url)
