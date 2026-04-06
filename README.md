@@ -11,6 +11,10 @@ The FundMe contract enables decentralized fundraising with the following key fea
 * Owner-only can withdrawal functionality
 * Automatic fund() execution via fallback and receive functions
 
+## Features
+Minimum Contribution: $5 USD equivalent in ETH
+  
+
 ## Technology Stack
 * Solidity - Smart contract programming language
 * Foundry - Development framework and testing suite
@@ -20,8 +24,9 @@ The FundMe contract enables decentralized fundraising with the following key fea
 
 ## Getting Started
 
+## Features
 
-### Prerequisites
+### Prerequisites /
 * Solidity ^0.8.18
 * Chainlink contracts
 * Apart of being able to deploy on local blockchain (like Anvil) .  Access to Ethereum free testnet (Sepolia) for deployment, is needed. Which is typically similar to mainnet deployment.
