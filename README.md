@@ -183,7 +183,7 @@ The contract implements several gas optimization techniques:
 * Efficient array resetting in withdrawal
 
 ## Author
-LegendaryCode
-* LinkedIn: [@legendarycode3](linkedin.com)
+LegendaryCode  
+* LinkedIn: [@legendarycode3](https://www.linkedin.com/)
 * Twitter: [@legendary_code_](https://x.com)
 * Github:  [@legendarycode3](https://github.com)
