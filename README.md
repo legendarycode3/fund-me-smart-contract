@@ -180,4 +180,4 @@ Create a .env file with the following variables:
 The contract implements several gas optimization techniques:
 * Immutable owner variable
 * Constant minimum USD value
-* 
+* Custom errors instead of require strings
