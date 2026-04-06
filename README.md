@@ -9,6 +9,7 @@ The FundMe contract enables decentralized fundraising with the following key fea
 * Minimum funding requirement of $5 USD (converted from ETH)
 * Real-time ETH/USD price conversion using Chainlink oracles
 * Owner-only can withdrawal functionality
+* Automatic fund() execution via fallback and receive functions
 
 ## Technology Stack
 * Solidity - Smart contract programming language
