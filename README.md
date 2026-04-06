@@ -22,7 +22,8 @@ The FundMe contract enables decentralized fundraising with the following key fea
 
 
 ### Prerequisites
-Solidity ^0.8.18
+* Solidity ^0.8.18
+* Chainlink contracts
 
 ### Installation
   1. Clone the repository: </br>
