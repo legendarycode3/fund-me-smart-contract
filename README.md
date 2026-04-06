@@ -177,3 +177,4 @@ Create a .env file with the following variables:
         └── README.md
 
 ## Gas Optimization
+The contract implements several gas optimization techniques:
