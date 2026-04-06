@@ -175,3 +175,5 @@ Create a .env file with the following variables:
             └── FundMeTest.t.sol
         ├── foundry.toml
         └── README.md
+
+## Gas Optimization
