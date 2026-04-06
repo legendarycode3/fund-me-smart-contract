@@ -13,6 +13,7 @@ The FundMe contract enables decentralized fundraising with the following key fea
 
 ## Features
 Minimum Contribution: $5 USD equivalent in ETH
+Price Oracle Integration: Uses Chainlink ETH/USD price feeds (Sepolia testnet)
   
 
 ## Technology Stack
