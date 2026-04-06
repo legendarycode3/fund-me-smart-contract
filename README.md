@@ -183,3 +183,4 @@ The contract implements several gas optimization techniques:
 * Efficient array resetting in withdrawal
 
 ## Author
+LegendaryCode
