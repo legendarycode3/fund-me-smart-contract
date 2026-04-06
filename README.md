@@ -184,6 +184,6 @@ The contract implements several gas optimization techniques:
 
 ## Author
 LegendaryCode
-* LinkedIn: [linkedin.com/in/legendarycode3/](url)
+* LinkedIn: [@legendarycode3](linkedin.com)
 * Twitter: [@legendary_code_](https://x.com)
 * Github:  [@legendarycode3](https://github.com)
