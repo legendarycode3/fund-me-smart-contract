@@ -181,3 +181,5 @@ The contract implements several gas optimization techniques:
 * Immutable owner variable
 * Constant minimum USD value
 * Efficient array resetting in withdrawal
+
+## Author
