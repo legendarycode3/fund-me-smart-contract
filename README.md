@@ -178,3 +178,4 @@ Create a .env file with the following variables:
 
 ## Gas Optimization
 The contract implements several gas optimization techniques:
+* Immutable owner variable
