@@ -154,8 +154,11 @@ $ cast --help
 ## Configuration
 Create a .env file with the following variables:
 
-> SEPOLIA_RPC_URL=your_sepolia_rpc_url </br>
-> ETHERSCAN_API_KEY=your_etherscan_api_key  </br>
+```shell
+SEPOLIA_RPC_URL=your_sepolia_rpc_url 
+ETHERSCAN_API_KEY=your_etherscan_api_key  
+```
+
 
 
 ## Project Structure
