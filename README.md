@@ -153,7 +153,7 @@ $ cast --help
 ### Functions
 * fund(): Allows users to contribute funds to the campaign. Requires the sent amount to meet the minimum USD requirement.
 * getPrice(): Retrieves the latest ETH to USD conversion rate using Chainlink's AggregatorV3Interface.
-* getVersion():
+* getVersion():  Retrieves the version of the Chainlink AggregatorV3Interface being used.
 
 ## Configuration
 Create a .env file with the following variables:
