@@ -27,7 +27,6 @@ The FundMe contract enables decentralized fundraising with the following key fea
 
 ## Getting Started
 
-## Features
 
 ### Prerequisites /
 * Solidity ^0.8.18
@@ -152,6 +151,7 @@ $ cast --help
 
 ## Smart Contract Details
 ### Functions
+* fund():
 
 ## Configuration
 Create a .env file with the following variables:
