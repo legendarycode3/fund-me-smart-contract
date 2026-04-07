@@ -151,6 +151,7 @@ $ cast --help
 ```
 
 ## Smart Contract Details
+### Functions
 
 ## Configuration
 Create a .env file with the following variables:
