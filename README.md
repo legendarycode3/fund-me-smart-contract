@@ -150,6 +150,7 @@ $ anvil --help
 $ cast --help
 ```
 
+## Smart Contract Details
 
 ## Configuration
 Create a .env file with the following variables:
