@@ -152,7 +152,7 @@ $ cast --help
 ## Smart Contract Details
 ### Functions
 * fund(): Allows users to contribute funds to the campaign. Requires the sent amount to meet the minimum USD requirement.
-* getPrice():
+* getPrice(): Retrieves the latest ETH to USD conversion rate using Chainlink's AggregatorV3Interface.
 
 ## Configuration
 Create a .env file with the following variables:
