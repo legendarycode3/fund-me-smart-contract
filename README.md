@@ -155,6 +155,7 @@ $ cast --help
 * getPrice(): Retrieves the latest ETH to USD conversion rate using Chainlink's AggregatorV3Interface.
 * getVersion():  Retrieves the version of the Chainlink AggregatorV3Interface being used.
 * getConversionRate(uint256 ethAmount): Calculates the equivalent USD amount for the provided ETH amount.
+* withdraw(): Enables the contract owner to be able to pull all funds (Ether) out of the contract to their own wallet.
 
 ## Configuration
 Create a .env file with the following variables:
