@@ -98,6 +98,7 @@ Or </br>
 make test
 ```
 Example test scenarios:
+* Funding below minimum threshold (should revert)
 
 Run tests with verbosity: </br>
 ```shell
