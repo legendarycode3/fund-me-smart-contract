@@ -101,6 +101,7 @@ Example test scenarios:
 * Funding below minimum threshold (should revert)
 * Successful funding above minimum
 * Non-owner withdrawal attempt (should revert)
+* Owner withdrawal functionality
 
 Run tests with verbosity: </br>
 ```shell
