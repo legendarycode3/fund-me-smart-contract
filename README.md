@@ -97,6 +97,8 @@ Or </br>
 ```shell
 make test
 ```
+Example test scenarios:
+
 Run tests with verbosity: </br>
 ```shell
 make test -vvv
