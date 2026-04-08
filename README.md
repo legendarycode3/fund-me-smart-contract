@@ -97,12 +97,6 @@ Or </br>
 ```shell
 make test
 ```
-Example test scenarios:
-* Funding below minimum threshold (should revert)
-* Successful funding above minimum
-* Non-owner withdrawal attempt (should revert)
-* Owner withdrawal functionality
-* Price conversion accuracy
 
 Run tests with verbosity: </br>
 ```shell
@@ -116,6 +110,13 @@ Test coverage: </br>
 ```shell
 make coverage
 ```
+
+Example test scenarios:
+* Funding below minimum threshold (should revert)
+* Successful funding above minimum
+* Non-owner withdrawal attempt (should revert)
+* Owner withdrawal functionality
+* Price conversion accuracy
 
 ### Format
 
