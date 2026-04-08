@@ -102,6 +102,7 @@ Example test scenarios:
 * Successful funding above minimum
 * Non-owner withdrawal attempt (should revert)
 * Owner withdrawal functionality
+* Price conversion accuracy
 
 Run tests with verbosity: </br>
 ```shell
