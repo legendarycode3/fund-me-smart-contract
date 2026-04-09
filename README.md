@@ -4,12 +4,14 @@
 
  *The FundMe Project* smart contract enables transparent, "decentralized crowdfunding", acting like a programmable Kickstarter on the blockchain. Its core purpose is to "securely accept native cryptocurrency donations (fund)", "track contributor data", "enforce a minimum USD value using Chainlink oracles", and allow "authorized withdrawals (withdraw)".  
 
-## Overview
+## Project Overview
 The FundMe contract enables decentralized fundraising with the following key features:
 * Minimum funding requirement of $5 USD (converted from ETH)
 * Real-time ETH/USD price conversion using Chainlink oracles
 * Owner-only can withdraw functionality
 * Automatic fund() execution via fallback and receive functions
+
+It demonstrates:
 
 ## Features
 * Minimum Contribution: $5 USD equivalent in ETH
