@@ -13,6 +13,7 @@ The FundMe contract enables decentralized fundraising with the following key fea
 
 It demonstrates:
 * Price feed integration via AggregatorV3Interface
+* Mocking Chainlink feeds for local testing
 
 ## Features
 * Minimum Contribution: $5 USD equivalent in ETH
