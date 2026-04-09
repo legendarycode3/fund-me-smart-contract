@@ -12,6 +12,7 @@ The FundMe contract enables decentralized fundraising with the following key fea
 * Automatic fund() execution via fallback and receive functions
 
 It demonstrates:
+* Price feed integration via AggregatorV3Interface
 
 ## Features
 * Minimum Contribution: $5 USD equivalent in ETH
