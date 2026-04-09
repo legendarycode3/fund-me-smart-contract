@@ -199,6 +199,8 @@ The contract implements several gas optimization techniques:
 * Constant minimum USD value
 * Efficient array resetting in withdrawal
 
+## 📚 References
+
 ## Author
 LegendaryCode  
 * LinkedIn: [@legendarycode3](https://www.linkedin.com/)
