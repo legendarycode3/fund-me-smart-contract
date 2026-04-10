@@ -210,6 +210,8 @@ The contract implements several gas optimization techniques:
 *  Foundry Fundamentals
 
 ## Learn More
+* Solidity Documentation
+* 
 
 ## Author
 LegendaryCode  
