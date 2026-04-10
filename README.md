@@ -206,12 +206,12 @@ The contract implements several gas optimization techniques:
 
 ## 📚 References
 * Foundry Book
-* Chainlink Documentation
 *  Foundry Fundamentals
 
 ## Learn More
 * Solidity Documentation
-* 
+* Foundry Documentation
+* Chainlink Documentation
 
 ## Author
 LegendaryCode  
