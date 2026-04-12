@@ -214,6 +214,7 @@ The contract implements several gas optimization techniques:
 * Chainlink Documentation
 
 ##  Additional Info:
+Some users were having a confusion that whether Chainlink-brownie-contracts is an official Chainlink repository or not.
 
 ## Author
 LegendaryCode  
