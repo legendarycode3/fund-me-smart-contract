@@ -215,6 +215,7 @@ The contract implements several gas optimization techniques:
 
 ##  Additional Info:
 Some users were having a confusion that whether Chainlink-brownie-contracts is an official Chainlink repository or not.
+Here is the info. Chainlink-brownie-contracts is an official repo. The repository is owned and maintained by the
 
 ## Author
 LegendaryCode  
