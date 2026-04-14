@@ -16,6 +16,9 @@ It demonstrates:
 * Mocking Chainlink feeds for local testing
 * Foundry-style unit, integration tests
 
+Built this project to understand in-dept about:
+
+
 ## Features
 * Minimum Contribution: $5 USD equivalent in ETH
 * Price Oracle Integration: Uses Chainlink ETH/USD price feeds (Sepolia testnet)
