@@ -17,7 +17,7 @@ It demonstrates:
 * Foundry-style unit, integration tests
 
 Built this project to understand in-dept about:
-
+* Oracle integration (Chainlink)
 
 ## Features
 * Minimum Contribution: $5 USD equivalent in ETH
