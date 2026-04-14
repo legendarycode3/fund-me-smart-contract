@@ -28,6 +28,7 @@ Built this project to understand in-dept about:
 * Access Control: Only contract deployer can withdraw funds
 * Fallback Support: Automatically processes direct ETH transfers as donations
 * Funder Tracking: Records who sent ETH and how much
+* Auto ETH Handling: receive() and fallback() support direct ETH
   
 
 ## Technology Stack
