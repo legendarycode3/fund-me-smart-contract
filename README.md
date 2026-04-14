@@ -18,6 +18,7 @@ It demonstrates:
 
 Built this project to understand in-dept about:
 * Oracle integration (Chainlink)
+* Access control with onlyOwner
 
 ## Features
 * Minimum Contribution: $5 USD equivalent in ETH
