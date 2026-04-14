@@ -36,6 +36,7 @@ Built this project to understand in-dept about:
 * Price conversion using custom library (PriceConverter)
 * onlyOwner modifier using immutable i_owner
 * transfer, send, and call ETH withdrawal methods
+* receive() and fallback() to catch direct ETH transactions
   
 
 ## Technology Stack
