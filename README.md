@@ -34,6 +34,7 @@ Built this project to understand in-dept about:
 * msg.sender, msg.value, address(this).balance
 * Chainlink AggregatorV3Interface
 * Price conversion using custom library (PriceConverter)
+* onlyOwner modifier using immutable i_owner
   
 
 ## Technology Stack
