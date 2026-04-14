@@ -20,6 +20,7 @@ Built this project to understand in-dept about:
 * Oracle integration (Chainlink)
 * Access control with onlyOwner
 * Safe ETH withdrawal patterns
+* Gas optimizations with constant, immutable, and custom errors
 
 ## Features
 * Minimum Contribution: $5 USD equivalent in ETH
