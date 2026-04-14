@@ -27,6 +27,7 @@ Built this project to understand in-dept about:
 * Price Oracle Integration: Uses Chainlink ETH/USD price feeds (Sepolia testnet)
 * Access Control: Only contract deployer can withdraw funds
 * Fallback Support: Automatically processes direct ETH transfers as donations
+* Funder Tracking: Records who sent ETH and how much
   
 
 ## Technology Stack
