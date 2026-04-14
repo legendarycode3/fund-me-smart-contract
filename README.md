@@ -33,6 +33,7 @@ Built this project to understand in-dept about:
 ## Key Concepts Used
 * msg.sender, msg.value, address(this).balance
 * Chainlink AggregatorV3Interface
+* Price conversion using custom library (PriceConverter)
   
 
 ## Technology Stack
