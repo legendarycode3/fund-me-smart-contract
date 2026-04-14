@@ -35,6 +35,7 @@ Built this project to understand in-dept about:
 * Chainlink AggregatorV3Interface
 * Price conversion using custom library (PriceConverter)
 * onlyOwner modifier using immutable i_owner
+* transfer, send, and call ETH withdrawal methods
   
 
 ## Technology Stack
