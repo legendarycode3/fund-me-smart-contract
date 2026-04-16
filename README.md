@@ -69,9 +69,6 @@ Built this project to understand in-dept about:
      ```shell
        forge install smartcontractkit/chainlink-brownie-contracts@0.6.1  
      ```
-     ```shell
-       forge install foundry-rs/forge-std 
-    ```
     ```shell  
       make install  Or   
       forge install
