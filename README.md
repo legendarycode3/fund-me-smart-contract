@@ -101,6 +101,7 @@ https://book.getfoundry.sh/
 
 ##  Deployment to a testnet or mainnet
 1. Setup environment variables
+You'll want to set your SEPOLIA_RPC_URL and PRIVATE_KEY as environment variables. You can add them to a .env file
 
 ## Usage
 
