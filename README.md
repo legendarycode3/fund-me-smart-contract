@@ -50,7 +50,7 @@ Built this project to understand in-dept about:
 ## Getting Started
 
 
-### Prerequisites /
+### Prerequisites
 * Solidity ^0.8.x
 * Chainlink contracts
 * Apart of being able to deploy on local blockchain (like Anvil) .  Access to Ethereum free testnet (Sepolia) for deployment, is needed. Which is typically similar to mainnet deployment.
