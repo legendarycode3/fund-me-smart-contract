@@ -106,6 +106,7 @@ You'll want to set your SEPOLIA_RPC_URL and PRIVATE_KEY as environment variables
 * SEPOLIA_RPC_URL: This is url of the sepolia testnet node you're working with. You can get setup with one for free from  [alchemy](https://www.alchemy.com/)
 Optionally, add your ETHERSCAN_API_KEY if you want to verify your contract on [Etherscan](https://etherscan.io/)
 2. Get testnet ETH
+Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet) or [faucets.chain.link](https://faucets.chain.link/) and get some testnet Sepolia ETH. You should see the Sepolia ETH show up in your metamask.
 
 ## Usage
 
