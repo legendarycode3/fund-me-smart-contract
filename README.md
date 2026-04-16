@@ -100,6 +100,7 @@ https://book.getfoundry.sh/
 
 
 ##  Deployment to a testnet or mainnet
+1. Setup environment variables
 
 ## Usage
 
