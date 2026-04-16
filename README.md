@@ -109,7 +109,7 @@ Optionally, add your ETHERSCAN_API_KEY if you want to verify your contract on [E
 Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet) or [faucets.chain.link](https://faucets.chain.link/) and get some testnet Sepolia ETH. You should see the Sepolia ETH show up in your metamask.
 3. Deploy(Using Script) </br>
 ```shell
-$ forge script script/DeployFundMe.s.sol --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --broadcast --verify --etherscan-api-key $ETHERSCAN_API_KEY
+ forge script script/DeployFundMe.s.sol --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --broadcast --verify --etherscan-api-key $ETHERSCAN_API_KEY
 ```
 
 ## Usage
@@ -117,14 +117,14 @@ $ forge script script/DeployFundMe.s.sol --rpc-url $SEPOLIA_RPC_URL --private-ke
 ### Build
 
 ```shell
-$ forge build
+ forge build
 ```
 
 ### Testing
 
 Run all tests: </br>
 ```shell
-$ forge test
+ forge test
 ```
 Or </br>
 ```shell
@@ -154,24 +154,24 @@ Example test scenarios:
 ### Format
 
 ```shell
-$ forge fmt
+ forge fmt
 ```
 
 ### Gas Snapshots
 
 ```shell
-$ forge snapshot
+ forge snapshot
 ```
 
 ### Anvil
 
 ```shell
-$ anvil
+ anvil
 ```
 
 ### Deploy
 ```shell
-$ forge script script/DeployFundMe.s.sol:DeployFundMe --rpc-url <your_rpc_url> --private-key <your_private_key>
+ forge script script/DeployFundMe.s.sol:DeployFundMe --rpc-url <your_rpc_url> --private-key <your_private_key>
 ```
 Deploy to Sepolia testnet: </br>
 > make deploy-sepolia
