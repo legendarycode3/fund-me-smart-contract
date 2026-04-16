@@ -245,5 +245,5 @@ the smartcontractkit org as well.
 ## Author
 LegendaryCode  
 * LinkedIn: [@legendarycode3](https://www.linkedin.com/)
-* Twitter:  [@legendary_code_](https://x.com)
+* Twitter:  [@legendary_code_](https://x.com/legendary_code_)
 * Github:  [@legendarycode3](https://github.com)
