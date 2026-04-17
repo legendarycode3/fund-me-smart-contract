@@ -251,6 +251,7 @@ The contract implements several gas optimization techniques:
 ## Learning Objectives
 By completing this project, you should be comfortable with:
 * Writing Solidity contracts with external dependencies
+* Using libraries and immutable variables
 
 ##  Additional Info:
 Some users were having a confusion that whether Chainlink-brownie-contracts is an official Chainlink repository or not.
