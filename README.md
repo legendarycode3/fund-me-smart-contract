@@ -30,6 +30,8 @@ Built this project to understand in-dept about:
 * Funder Tracking: Records who sent ETH and how much
 * Auto ETH Handling: receive() and fallback() support direct ETH
 
+## Real-World Analogy
+
 ## Key Concepts Used
 * msg.sender, msg.value, address(this).balance
 * Chainlink AggregatorV3Interface
