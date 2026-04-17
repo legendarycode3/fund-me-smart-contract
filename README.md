@@ -253,6 +253,7 @@ By completing this project, you should be comfortable with:
 * Writing Solidity contracts with external dependencies
 * Using libraries and immutable variables
 * Writing Foundry tests with mocks and cheats
+* Debugging EVM and Foundry errors
 * Understanding environment-specific behavior (local vs testnet vs fork)
 
 ##  Additional Info:
