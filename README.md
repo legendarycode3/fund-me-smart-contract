@@ -32,6 +32,7 @@ Built this project to understand in-dept about:
 
 ## Real-World Analogy
 Think of this contract like a donation box:
+* People (like e.g "Nathaniel" 🧍) can donate ETH
 
 ## Key Concepts Used
 * msg.sender, msg.value, address(this).balance
