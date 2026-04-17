@@ -31,6 +31,7 @@ Built this project to understand in-dept about:
 * Auto ETH Handling: receive() and fallback() support direct ETH
 
 ## Real-World Analogy
+Think of this contract like a donation box:
 
 ## Key Concepts Used
 * msg.sender, msg.value, address(this).balance
