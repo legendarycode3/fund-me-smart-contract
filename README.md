@@ -35,6 +35,7 @@ Think of this contract like a donation box:
 * People (like e.g "Nathaniel" 🧍) can donate ETH
 * But it only accepts donations worth $5 or more in real-time USD value
 * You (the contract creator) are the only one allowed to withdraw the funds
+* The contract safely tracks all donors and protects against misuse
 
 ## Key Concepts Used
 * msg.sender, msg.value, address(this).balance
