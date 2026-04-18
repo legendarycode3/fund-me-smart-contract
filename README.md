@@ -59,7 +59,7 @@ Think of this contract like a donation box:
 
 
 ### Prerequisites
-* Solidity ^0.8.x
+* Solidity ^0.8.18
 * Chainlink contracts
 * Install the MetaMask browser extension and connect it to a test network (e.g., Sepolia).
 * Apart of being able to deploy on local blockchain (like Anvil) .  Access to Ethereum free testnet (Sepolia) for deployment, is needed. Which is typically similar to mainnet deployment.
