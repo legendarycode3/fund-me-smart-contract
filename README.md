@@ -47,7 +47,7 @@ Think of this contract like a donation box:
 * receive() and fallback() to catch direct ETH transactions
   
 
-## Technology Stack
+## Technology Stack (Technologies Used)
 * Solidity - Smart contract programming language
 * Foundry(forge, cast, anvil) - Development framework and testing suite
 * Chainlink Price/Data Feeds (real + mock)
