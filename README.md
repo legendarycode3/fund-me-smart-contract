@@ -245,8 +245,8 @@ The contract implements several gas optimization techniques:
 * Foundry Book
 *  Foundry Fundamentals
 
-## Learn More
-* Solidity Documentation
+## Learn More (Resources)
+* [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.35-pre.1/)
 * Foundry Documentation
 * Chainlink Documentation
 
