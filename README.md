@@ -248,7 +248,7 @@ The contract implements several gas optimization techniques:
 ## Learn More (Resources)
 * [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.35-pre.1/)
 * [Foundry Documentation](https://www.getfoundry.sh/)
-* [Chainlink Documentation]((https://docs.chain.link/)
+* [Chainlink Documentation](https://docs.chain.link/)
 
 ## Learning Objectives
 By completing this project, you should be comfortable with:
