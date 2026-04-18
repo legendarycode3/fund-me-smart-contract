@@ -52,6 +52,7 @@ Think of this contract like a donation box:
 * Foundry(forge, cast, anvil) - Development framework and testing suite
 * Chainlink Price/Data Feeds (real + mock)
 * Chainlink Brownie Contracts
+* MetaMask: Ethereum wallet for transactions.
 
 
 ## Getting Started
