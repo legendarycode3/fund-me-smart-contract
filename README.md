@@ -43,8 +43,8 @@ Think of this contract like a donation box:
 * Price conversion using custom library (PriceConverter)
 * onlyOwner modifier using immutable i_owner
 * transfer, send, and call ETH withdrawal methods
-* Gas-optimized NotOwner() custom error
-* receive() and fallback() to catch direct ETH transactions
+* Gas-optimized NotOwner() custom error.
+* receive() and fallback() to catch direct ETH transactions.
   
 
 ## Technology Stack (Technologies Used)
