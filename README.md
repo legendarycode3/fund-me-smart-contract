@@ -109,6 +109,7 @@ The Makefile defines the following commands for quick project management:
 * test-sepolia:  Runs tests on Sepolia fork using SEPOLIA_RPC_URL.
 * snapshot: Generates a snapshot of contract states.
 * format:  Formats code according to standards.
+* coverage: 
 
 
 ## Foundry
