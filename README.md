@@ -106,7 +106,7 @@ The Makefile defines the following commands for quick project management:
 * update: Updates dependencies.
 * build: Compiles the contracts.
 * test-anvil: Runs tests in a local Anvil environment.
-* test-sepolia:  
+* test-sepolia:  Runs tests on Sepolia fork using SEPOLIA_RPC_URL.
 
 
 ## Foundry
