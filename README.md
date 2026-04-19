@@ -103,7 +103,7 @@ The Makefile defines the following commands for quick project management:
 * remove: Clears Git submodules and libraries, then commits the changes.
 * all: Runs clean, remove, install, update, and build in sequence.
 * install:  Installs required packages without committing.
-* update: 
+* update: Updates dependencies.
 
 
 ## Foundry
