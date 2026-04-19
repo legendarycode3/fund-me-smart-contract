@@ -93,7 +93,8 @@ Think of this contract like a donation box:
        
 
 ## Makefile
-A Makefile is included to streamline commands for cleaning, building, testing, updating, formatting, deployment, and
+A Makefile is included to streamline commands for cleaning, building, testing, updating, formatting, deployment, and more. 
+You can use it to execute tasks without needing to remember specific commands. Just run the command you need like this:
 
 ## Foundry
 
