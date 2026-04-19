@@ -93,6 +93,7 @@ Think of this contract like a donation box:
        
 
 ## Makefile
+A Makefile is included to streamline commands for cleaning, building, testing, updating, formatting, deployment, and
 
 ## Foundry
 
