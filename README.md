@@ -100,6 +100,7 @@ You can use it to execute tasks without needing to remember specific commands. J
  ```
 The Makefile defines the following commands for quick project management:
 * clean: Cleans up build artifacts.
+* remove:
 * all: Runs clean, remove, install, update, and build in sequence.
 
 
