@@ -104,7 +104,7 @@ The Makefile defines the following commands for quick project management:
 * all: Runs clean, remove, install, update, and build in sequence.
 * install:  Installs required packages without committing.
 * update: Updates dependencies.
-* build: 
+* build: Compiles the contracts.
 
 
 ## Foundry
