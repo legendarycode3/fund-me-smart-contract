@@ -105,6 +105,7 @@ The Makefile defines the following commands for quick project management:
 * install:  Installs required packages without committing.
 * update: Updates dependencies.
 * build: Compiles the contracts.
+* test-anvil:
 
 
 ## Foundry
