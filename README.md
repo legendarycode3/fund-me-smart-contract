@@ -110,7 +110,7 @@ The Makefile defines the following commands for quick project management:
 * snapshot: Generates a snapshot of contract states.
 * format:  Formats code according to standards.
 * coverage: Runs code coverage.
-* deploy-anvil:
+* deploy-anvil:  Deploys contract locally using Anvil.
 
 
 ## Foundry
