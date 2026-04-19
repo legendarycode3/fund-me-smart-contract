@@ -98,6 +98,7 @@ You can use it to execute tasks without needing to remember specific commands. J
  ```shell
       make <command>
  ```
+The Makefile defines the following commands for quick project management:
 
 ## Foundry
 
