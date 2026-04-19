@@ -111,6 +111,7 @@ The Makefile defines the following commands for quick project management:
 * format:  Formats code according to standards.
 * coverage: Runs code coverage.
 * deploy-anvil:  Deploys contract locally using Anvil.
+* deploy-sepolia:
 
 
 ## Foundry
