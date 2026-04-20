@@ -81,7 +81,8 @@ Think of this contract like a donation box:
        forge install smartcontractkit/chainlink-brownie-contracts@0.6.1  
      ```
     ```shell  
-      make install  Or   
+      make install
+    # Or   
       forge install
     ```
     
@@ -243,7 +244,7 @@ ETHERSCAN_API_KEY=your_etherscan_api_key
 SEPOLIA_PRIVATE_KEY=your_sepolia_private_key
 ```
 
-
+## Security Considerations:
 
 
 
