@@ -235,8 +235,11 @@ Create a .env file with the following variables:
 
 ```shell
 SEPOLIA_RPC_URL=your_sepolia_rpc_url 
-ETHERSCAN_API_KEY=your_etherscan_api_key  
+ETHERSCAN_API_KEY=your_etherscan_api_key
+SEPOLIA_PRIVATE_KEY=your_sepolia_private_key
 ```
+
+
 
 
 
