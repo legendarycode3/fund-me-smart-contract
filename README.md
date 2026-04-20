@@ -245,7 +245,7 @@ SEPOLIA_PRIVATE_KEY=your_sepolia_private_key
 ```
 
 ## Security Considerations:
-
+⚠️ Important Security Notes:
 
 
 ## Project Structure
