@@ -151,7 +151,10 @@ Compile the smart contracts:
 
 ```shell
  forge build
+# or
+ make build
 ```
+
 
 ### Testing
 
