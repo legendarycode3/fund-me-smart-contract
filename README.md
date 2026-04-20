@@ -147,6 +147,7 @@ Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet
 ## Usage
 
 ### Building the Project
+Compile the smart contracts:
 
 ```shell
  forge build
