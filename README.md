@@ -146,7 +146,7 @@ Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet
 
 ## Usage
 
-### Build
+### Building the Project
 
 ```shell
  forge build
