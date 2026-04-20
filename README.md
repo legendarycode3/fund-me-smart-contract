@@ -246,6 +246,7 @@ SEPOLIA_PRIVATE_KEY=your_sepolia_private_key
 
 ## Security Considerations:
 ⚠️ Important Security Notes:
+1. Private Keys: Never commit private keys to version control
 
 
 ## Project Structure
