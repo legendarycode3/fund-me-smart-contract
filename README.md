@@ -134,7 +134,9 @@ Foundry consists of: </br>
 https://book.getfoundry.sh/
 
 
-##  Deployment to a testnet or mainnet
+##  Deployment
+
+###  Deployment to a testnet or mainnet
 1. Setup environment variables </br>
 You'll want to set your SEPOLIA_RPC_URL and PRIVATE_KEY as environment variables. You can add them to a .env file </br>
 * PRIVATE_KEY: The private key of your account (like from [metamask](https://metamask.io/). NOTE: FOR DEVELOPMENT, PLEASE USE A KEY THAT DOESN'T HAVE ANY REAL FUNDS ASSOCIATED WITH IT.
