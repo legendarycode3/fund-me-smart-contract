@@ -154,7 +154,10 @@ Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet
 ```shell
  anvil
 ```
-2. Deploy the contract: 
+2. Deploy the contract:
+```shell
+ forge script script/DeployFundMe.s.sol:DeployFundMe --rpc-url http://127.0.0.1:8545 --private-key <ANVIL_PRIVATE_KEY> --broadcast
+```
 
 ## Usage
 
