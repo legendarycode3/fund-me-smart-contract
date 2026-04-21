@@ -150,11 +150,11 @@ Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet
 ```
 
 ### Deployment to Local Anvil network
-1. Start a local Anvil node:
+1. Start a local Anvil node on one terminal:
 ```shell
  anvil
 ```
-2. 
+2. Deploy the contract: 
 
 ## Usage
 
