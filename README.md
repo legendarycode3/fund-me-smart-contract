@@ -149,6 +149,8 @@ Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet
  forge script script/DeployFundMe.s.sol --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --broadcast --verify --etherscan-api-key $ETHERSCAN_API_KEY
 ```
 
+### Deployment to Local Anvil
+
 ## Usage
 
 ### Building the Project
