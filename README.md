@@ -29,6 +29,7 @@ Built this project to understand in-dept about:
 * Fallback Support: Automatically processes direct ETH transfers as donations
 * Funder Tracking: Records who sent ETH and how much
 * Auto ETH Handling: receive() and fallback() support direct ETH
+* Customizable threshold: Minimum USD value can be adjusted.
 
 ## Real-World Analogy
 Think of this contract like a donation box:
