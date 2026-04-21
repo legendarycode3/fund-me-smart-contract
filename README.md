@@ -136,7 +136,7 @@ https://book.getfoundry.sh/
 
 ##  Deployment
 
-###  Deployment to a testnet or mainnet
+###  Deployment to a Testnet or Mainnet network
 1. Setup environment variables </br>
 You'll want to set your SEPOLIA_RPC_URL and PRIVATE_KEY as environment variables. You can add them to a .env file </br>
 * PRIVATE_KEY: The private key of your account (like from [metamask](https://metamask.io/). NOTE: FOR DEVELOPMENT, PLEASE USE A KEY THAT DOESN'T HAVE ANY REAL FUNDS ASSOCIATED WITH IT.
@@ -149,7 +149,8 @@ Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet
  forge script script/DeployFundMe.s.sol --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY --broadcast --verify --etherscan-api-key $ETHERSCAN_API_KEY
 ```
 
-### Deployment to Local Anvil
+### Deployment to Local Anvil network
+1. Start a local Anvil node:
 
 ## Usage
 
