@@ -48,6 +48,7 @@ Think of this contract like a donation box:
 * Gas-optimized NotOwner() custom error.
 * receive() and fallback() to catch direct ETH transactions.
 * Makefiles: Workflow automation for common tasks
+* Helper Configs: Multi-network deployment configurations
   
 
 ## Technology Stack (Technologies Used)
