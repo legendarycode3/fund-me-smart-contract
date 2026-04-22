@@ -257,6 +257,7 @@ Price Feed: `0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419`
 **Local Development (Anvil)**
 * Chain ID: 31337
 * Price Feed: MockV3Aggregator (deployed automatically)
+* Simulated Price: 
  
 ## Smart Contract Details
 ### Functions
