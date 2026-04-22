@@ -254,7 +254,7 @@ $ cast --help
 
 **Local Development (Anvil)**
 * Chain ID: 31337
-* Price Feed:
+* Price Feed: MockV3Aggregator (deployed automatically)
  
 ## Smart Contract Details
 ### Functions
