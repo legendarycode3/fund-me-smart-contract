@@ -244,11 +244,12 @@ $ cast --help
 ```
 
 ## Supported Networks
-Sepolia Testnet
+**Sepolia Testnet**
+* Chain ID: 11155111
 
-Mainnet
+**Mainnet**
 
-Local Development (Anvil)
+**Local Development (Anvil)**
  
 ## Smart Contract Details
 ### Functions
