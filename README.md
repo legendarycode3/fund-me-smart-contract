@@ -65,7 +65,7 @@ Think of this contract like a donation box:
 * Solidity ^0.8.18
 * Foundry development framework for compiling and testing.
 * Chainlink for price feed integration.
-* Install the MetaMask browser extension and connect it to a test network (e.g., Sepolia).
+* Install the MetaMask browser extension to be able to connect it to a test network (e.g., Sepolia).
 * Apart of being able to deploy on local blockchain (like Anvil) .  Access to Ethereum free testnet (Sepolia) for deployment, is needed. Which is typically similar to mainnet deployment.
 * Etherscan API key for contract verification
 
@@ -243,6 +243,8 @@ $ anvil --help
 $ cast --help
 ```
 
+## Supported Networks
+ 
 ## Smart Contract Details
 ### Functions
 * fund(): Allows users to contribute funds to the campaign. Requires the sent amount to meet the minimum USD requirement.
