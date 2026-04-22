@@ -41,7 +41,7 @@ Think of this contract like a donation box:
 
 ## Key Concepts Used
 * msg.sender, msg.value, address(this).balance
-* Chainlink AggregatorV3Interface
+* Chainlink Integration: Working with external price feed oracles , using Chainlink AggregatorV3Interface. 
 * Price conversion using custom library (PriceConverter)
 * onlyOwner modifier using immutable i_owner
 * transfer, send, and call ETH withdrawal methods
