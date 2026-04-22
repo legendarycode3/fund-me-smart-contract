@@ -246,13 +246,13 @@ $ cast --help
 ## Supported Networks
 **Sepolia Testnet**
 * Chain ID: 11155111
-* Price Feed: `0x694AA1769357215De4fAc081C51b11De6d8D8a37`
+* Price Feed: `0x694AA1769357215DE4FAC081bf1f309aDC325306`
 * Currency Pair: ETH/USD
 * Faucet: [Sepolia Faucet](https://faucets.chain.link/)
 
 **Mainnet**
 Chain ID: 1
-Price Feed: 
+Price Feed: `0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419`
 
 **Local Development (Anvil)**
 * Chain ID: 31337
