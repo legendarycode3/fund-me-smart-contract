@@ -248,7 +248,7 @@ $ cast --help
 * Chain ID: 11155111
 * Price Feed: `0x694AA1769357215De4fAc081C51b11De6d8D8a37`
 * Currency Pair: ETH/USD
-* Faucet:
+* Faucet: [Sepolia Faucet](https://faucets.chain.link/))
 
 **Mainnet**
 
