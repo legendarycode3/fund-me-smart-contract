@@ -244,6 +244,7 @@ $ cast --help
 ```
 
 ## Supported Networks
+Sepolia Testnet
  
 ## Smart Contract Details
 ### Functions
