@@ -27,7 +27,7 @@ Built this project to understand in-dept about:
 * Price Oracle Integration: Uses Chainlink ETH/USD price feeds (Sepolia testnet)
 * Access Control: Only contract deployer can withdraw funds
 * Fallback Support: Automatically processes direct ETH transfers as donations
-* Funder Tracking: Records who sent ETH and how much
+* Funder Tracking: Records who sent ETH , how much and their contributed amounts.
 * Auto ETH Handling: receive() and fallback() support direct ETH
 * Customizable threshold: Minimum USD value can be adjusted.
 * Multi-Network Support: Deployable on Sepolia, Mainnet, and local Anvil
