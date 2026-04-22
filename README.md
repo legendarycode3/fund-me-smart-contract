@@ -247,6 +247,8 @@ $ cast --help
 Sepolia Testnet
 
 Mainnet
+
+Local Development (Anvil)
  
 ## Smart Contract Details
 ### Functions
