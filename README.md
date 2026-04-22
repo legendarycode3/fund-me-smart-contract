@@ -251,6 +251,7 @@ $ cast --help
 * Faucet: [Sepolia Faucet](https://faucets.chain.link/)
 
 **Mainnet**
+Chain ID: 1
 
 **Local Development (Anvil)**
 * Chain ID: 31337
