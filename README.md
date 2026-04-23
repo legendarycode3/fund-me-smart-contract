@@ -64,6 +64,7 @@ Think of this contract like a donation box:
     * `constant` for unchanging values
     * `immutable`  for one-time initialization values
     * Custom errors instead of revert strings
+    * Memory optimization in withdrawal function
   
 
 ## Technology Stack (Technologies Used)
