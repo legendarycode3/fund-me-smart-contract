@@ -32,6 +32,7 @@ Built this project to understand in-dept about:
 * Customizable threshold: Minimum USD value can be adjusted.
 * Multi-Network Support: Deployable on Sepolia, Mainnet, and local Anvil
 * Efficient Design:  Uses libraries (PriceConverter) and custom errors (NotOwner) for gas optimization.
+* Demonstrates best practices in Solidity development
 
 ## Real-World Analogy
 Think of this contract like a donation box:
