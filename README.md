@@ -54,6 +54,7 @@ Think of this contract like a donation box:
 
 ## Contract Details
 ### Key Functions
+1. fund() - 
   
 
 ## Technology Stack (Technologies Used)
