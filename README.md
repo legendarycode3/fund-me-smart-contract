@@ -65,6 +65,8 @@ Think of this contract like a donation box:
     * `immutable`  for one-time initialization values
     * Custom errors instead of revert strings
     * Memory optimization in withdrawal function
+* ETH handling through:
+
   
 
 ## Technology Stack (Technologies Used)
