@@ -66,7 +66,8 @@ Think of this contract like a donation box:
     * Custom errors instead of revert strings
     * Memory optimization in withdrawal function
 * ETH handling through:
-    * `receive()` function for direct ETH transfers 
+    * `receive()` function for direct ETH transfers
+    * `fallback()`
 
   
 
