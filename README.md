@@ -61,6 +61,7 @@ Think of this contract like a donation box:
 ### Technical Features
 * Chainlink Price Oracle integration for accurate ETH/USD conversion
 * Gas optimizations using:
+    * `constant` for unchanging values
   
 
 ## Technology Stack (Technologies Used)
