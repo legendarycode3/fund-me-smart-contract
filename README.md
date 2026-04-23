@@ -53,6 +53,7 @@ Think of this contract like a donation box:
 * Helper Configs: For Multi-network deployment configurations
 
 ## Contract Details
+### Key Functions
   
 
 ## Technology Stack (Technologies Used)
