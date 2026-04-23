@@ -59,6 +59,7 @@ Think of this contract like a donation box:
 3. cheaperWithdraw() - Gas-optimized withdrawal function
 
 ### Technical Features
+* Chainlink Price Oracle integration for accurate ETH/USD conversion
   
 
 ## Technology Stack (Technologies Used)
