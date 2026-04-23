@@ -55,7 +55,7 @@ Think of this contract like a donation box:
 ## Contract Details
 ### Key Functions
 1. fund() - Send ETH to the contract (minimum 5 USD equivalent required)
-2. withdraw() - 
+2. withdraw() - Owner can withdraw all funds from the contract
   
 
 ## Technology Stack (Technologies Used)
