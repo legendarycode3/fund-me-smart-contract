@@ -31,7 +31,7 @@ Built this project to understand in-dept about:
 * Auto ETH Handling: receive() and fallback() support direct ETH
 * Customizable threshold: Minimum USD value can be adjusted.
 * Multi-Network Support: Deployable on Sepolia, Mainnet, and local Anvil
-* Efficient Design: 
+* Efficient Design:  Uses libraries (PriceConverter) and custom errors (NotOwner) for gas optimization.
 
 ## Real-World Analogy
 Think of this contract like a donation box:
