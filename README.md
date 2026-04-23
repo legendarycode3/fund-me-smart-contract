@@ -51,6 +51,8 @@ Think of this contract like a donation box:
 * receive() and fallback() to catch direct ETH transactions.
 * Makefiles: Workflow automation for common tasks
 * Helper Configs: For Multi-network deployment configurations
+
+## Contract Details
   
 
 ## Technology Stack (Technologies Used)
