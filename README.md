@@ -67,7 +67,7 @@ Think of this contract like a donation box:
     * Memory optimization in withdrawal function
 * ETH handling through:
     * `receive()` function for direct ETH transfers
-    * `fallback()`
+    * `fallback()`  function for unexpected interactions
 
   
 
