@@ -54,7 +54,7 @@ Think of this contract like a donation box:
 
 ## Contract Details
 ### Key Functions
-1. fund() - 
+1. fund() - Send ETH to the contract (minimum 5 USD equivalent required)
   
 
 ## Technology Stack (Technologies Used)
