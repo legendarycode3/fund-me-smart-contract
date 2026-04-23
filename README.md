@@ -63,6 +63,7 @@ Think of this contract like a donation box:
 * Gas optimizations using:
     * `constant` for unchanging values
     * `immutable`  for one-time initialization values
+    * Custom errors instead of revert strings
   
 
 ## Technology Stack (Technologies Used)
