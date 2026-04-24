@@ -289,7 +289,7 @@ $ cast --help
 * withdraw(): Enables the contract owner to be able to pull all funds (Ether) out of the contract to their own wallet.
 
 ### Scripts
-* DeployFundme.s.sol: 
+* DeployFundme.s.sol: Main deployment script
 
 ## Configuration
 Create a .env file with the following variables:
