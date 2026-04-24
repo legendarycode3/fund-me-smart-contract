@@ -330,6 +330,7 @@ The contract implements several gas optimization techniques:
 * Efficient array resetting in withdrawal
 
 ## Pro Tips
+### For Users
 
 ## 📚 References
 * Foundry Book
