@@ -330,10 +330,13 @@ The contract implements several gas optimization techniques:
 * Efficient array resetting in withdrawal
 
 ## Pro Tips
+
 ### For Users
 * ****Gas Optimization:**** Fund during low network congestion periods
 * ****Minimum Amount****: Always check current ETH price to meet $5 minimum
 * ****Transaction Monitoring:**** Use Etherscan (blockchain explorer) to track your funding transactions
+
+### For Developers
 
 ## 📚 References
 * Foundry Book
