@@ -221,7 +221,7 @@ Example test scenarios:
 * Successful funding above minimum
 * Non-owner withdrawal attempt (should revert)
 * Owner withdrawal functionality
-* Price conversion accuracy
+* Price conversion accuracy.
 
 ### Format
 
@@ -263,7 +263,7 @@ $ anvil --help
 $ cast --help
 ```
 
-## Supported Networks
+## 🌐 Supported Networks
 **Sepolia Testnet**
 * Chain ID: 11155111
 * Price Feed: `0x694AA1769357215DE4FAC081bf1f309aDC325306`
