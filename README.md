@@ -271,9 +271,9 @@ $ cast --help
 * Faucet: [Sepolia Faucet](https://faucets.chain.link/)
 
 **Mainnet**
-Chain ID: 1
-Price Feed: `0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419`
-Currency Pair: ETH/USD
+* Chain ID: 1
+* Price Feed: `0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419`
+* Currency Pair: ETH/USD
 
 **Local Development (Anvil)**
 * Chain ID: 31337
