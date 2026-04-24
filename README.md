@@ -337,9 +337,10 @@ The contract implements several gas optimization techniques:
 * ****Transaction Monitoring:**** Use Etherscan (blockchain explorer) to track your funding transactions
 
 ### For Developers
-* **** Testing Strategy:**** Always test on testnets before mainnet deployment
+* ****Testing Strategy:**** Always test on testnets before mainnet deployment
 * ****Price Feed Updates:**** Monitor Chainlink price feed deprecation notices
-* ****Security:**** Use hardware wallets for mainnet deployments 
+* ****Security:**** Use hardware wallets for mainnet deployments
+* ****Gas Estimation:****
 
 ## 📚 References
 * Foundry Book
