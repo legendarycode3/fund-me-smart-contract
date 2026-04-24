@@ -291,7 +291,7 @@ $ cast --help
 ### Scripts
 * `DeployFundme.s.sol`: Main deployment script
 * `HelpingConfig.s.sol`:  Network-specific configurations
-* `MockV3Aggregator.sol`:
+* `MockV3Aggregator.sol`:  Local testing price feed mock
 
 ## Configuration
 Create a .env file with the following variables:
