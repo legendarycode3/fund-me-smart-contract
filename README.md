@@ -333,6 +333,7 @@ The contract implements several gas optimization techniques:
 ### For Users
 * ****Gas Optimization:**** Fund during low network congestion periods
 * ****Minimum Amount****: Always check current ETH price to meet $5 minimum
+* ****Transaction Monitoring:****
 
 ## 📚 References
 * Foundry Book
