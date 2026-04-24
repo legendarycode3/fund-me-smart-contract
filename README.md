@@ -291,6 +291,7 @@ $ cast --help
 ### Scripts
 * `DeployFundme.s.sol`: Main deployment script
 * `HelpingConfig.s.sol`:  Network-specific configurations
+* `MockV3Aggregator.sol`:
 
 ## Configuration
 Create a .env file with the following variables:
