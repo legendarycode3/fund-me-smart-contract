@@ -329,7 +329,7 @@ The contract implements several gas optimization techniques:
 * Constant minimum USD value
 * Efficient array resetting in withdrawal
 
-## Pro Tips
+## ⚡ Pro Tips
 
 ### For Users
 * ****Gas Optimization:**** Fund during low network congestion periods
@@ -337,7 +337,7 @@ The contract implements several gas optimization techniques:
 * ****Transaction Monitoring:**** Use Etherscan (blockchain explorer) to track your funding transactions
 
 ### For Developers
-* **** Testing Strategy:****
+* **** Testing Strategy:**** Always test on testnets before mainnet deployment 
 
 ## 📚 References
 * Foundry Book
