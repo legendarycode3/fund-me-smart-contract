@@ -340,7 +340,7 @@ The contract implements several gas optimization techniques:
 * ****Testing Strategy:**** Always test on testnets before mainnet deployment
 * ****Price Feed Updates:**** Monitor Chainlink price feed deprecation notices
 * ****Security:**** Use hardware wallets for mainnet deployments
-* ****Gas Estimation:****
+* ****Gas Estimation:**** Use `forge snapshot` to track gas usage changes
 
 ## 📚 References
 * Foundry Book
