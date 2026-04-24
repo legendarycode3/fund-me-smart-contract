@@ -331,6 +331,7 @@ The contract implements several gas optimization techniques:
 
 ## Pro Tips
 ### For Users
+* Gas Optimization: 
 
 ## 📚 References
 * Foundry Book
