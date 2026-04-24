@@ -339,6 +339,7 @@ The contract implements several gas optimization techniques:
 ### For Developers
 * **** Testing Strategy:**** Always test on testnets before mainnet deployment
 * ****Price Feed Updates:**** Monitor Chainlink price feed deprecation notices
+* ****Security:****
 
 ## 📚 References
 * Foundry Book
