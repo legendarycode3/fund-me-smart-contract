@@ -329,6 +329,8 @@ The contract implements several gas optimization techniques:
 * Constant minimum USD value
 * Efficient array resetting in withdrawal
 
+## Pro Tips
+
 ## 📚 References
 * Foundry Book
 *  Foundry Fundamentals
