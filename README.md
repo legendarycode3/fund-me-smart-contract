@@ -303,7 +303,7 @@ SEPOLIA_PRIVATE_KEY=your_sepolia_private_key
 2. Environment Variables: Keep your .env file secure and never share it
 3. Testnet Only: This setup is configured for testnet deployment
 4. Audit: Have your contracts audited before mainnet deployment
-5. Reentrancy Protection:
+5. Reentrancy Protection:   Uses checks-effects-interactions pattern
 
 
 ## Project Structure
