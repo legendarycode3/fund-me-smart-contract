@@ -280,7 +280,7 @@ Currency Pair: ETH/USD
 * Price Feed: MockV3Aggregator (deployed automatically)
 * Simulated Price: $2000 ETH/USD
  
-## Smart Contract Details
+## 📋Smart Contract Functions
 ### Functions
 * fund(): Allows users to contribute funds to the campaign. Requires the sent amount to meet the minimum USD requirement.
 * getPrice(): Retrieves the latest ETH to USD conversion rate using Chainlink's AggregatorV3Interface.
