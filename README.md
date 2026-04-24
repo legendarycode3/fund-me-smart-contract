@@ -332,6 +332,7 @@ The contract implements several gas optimization techniques:
 ## Pro Tips
 ### For Users
 * ****Gas Optimization:**** Fund during low network congestion periods
+* ****Minimum Amount****: 
 
 ## 📚 References
 * Foundry Book
