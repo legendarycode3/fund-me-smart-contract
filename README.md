@@ -71,10 +71,10 @@ Think of this contract like a donation box:
   
 
 ## Technology Stack (Technologies Used)
-* Solidity - Smart contract programming language
-* Foundry(forge, cast, anvil) - Development framework and testing suite
-* Chainlink Price/Data Feeds (real + mock)
-* MetaMask: Ethereum wallet for transactions.
+* ****Solidity**** - Smart contract programming language
+* ****Foundry(forge, cast, anvil)**** - Development framework and testing suite
+* ****Chainlink**** - For Price/Data Feeds (real + mock)
+* MetaMask - Ethereum wallet for transactions.
 
 
 ## Getting Started
