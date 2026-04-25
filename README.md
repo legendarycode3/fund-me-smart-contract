@@ -23,16 +23,15 @@ Built this project to understand in-dept about:
 * Gas optimizations with constant, immutable, and custom errors.
 
 ## Features
-* Minimum Contribution: $5 USD equivalent in ETH
-* Price Oracle Integration: Uses Chainlink ETH/USD price feeds (Sepolia testnet)
-* Access Control: Only contract deployer can withdraw funds
-* Fallback Support: Automatically processes direct ETH transfers as donations
-* Funder Tracking: Records who sent ETH , how much and their contributed amounts.
-* Auto ETH Handling: receive() and fallback() support direct ETH
-* Customizable threshold: Minimum USD value can be adjusted.
-* Multi-Network Support: Deployable on Sepolia, Mainnet, and local Anvil
-* Efficient Design:  Uses libraries (PriceConverter) and custom errors (NotOwner) for gas optimization.
-* Demonstrates best practices in Solidity development
+* ****Minimum Contribution:**** $5 USD equivalent in ETH
+* ****Price Oracle Integration:**** Uses Chainlink ETH/USD price feeds (Sepolia testnet)
+* ****Access Control:**** Only contract deployer can withdraw funds
+* ****Fallback Support:**** Automatically processes direct ETH transfers as donations
+* ****Funder Tracking:**** Records who sent ETH , how much and their contributed amounts.
+* ****Auto ETH Handling:**** receive() and fallback() support direct ETH
+* ****Customizable threshold:**** Minimum USD value can be adjusted.
+* ****Multi-Network Support:**** Deployable on Sepolia, Mainnet, and local Anvil
+* ****Efficient Design:****  Uses libraries (PriceConverter) and custom errors (NotOwner) for gas optimization.
 
 ## Real-World Analogy
 Think of this contract like a donation box:
