@@ -136,6 +136,7 @@ The Makefile defines the following commands for quick project management:
 * coverage: Runs code coverage.
 * deploy-anvil:  Deploys contract locally using Anvil.
 * deploy-sepolia: Deploys contract to Sepolia network with verification on Etherscan.
+* ****test****: Run tests.
 
 
 ## Foundry
