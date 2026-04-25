@@ -74,7 +74,7 @@ Think of this contract like a donation box:
 * ****Solidity**** - Smart contract programming language
 * ****Foundry(forge, cast, anvil)**** - Development framework and testing suite
 * ****Chainlink**** - For Price/Data Feeds (real + mock)
-* MetaMask - Ethereum wallet for transactions.
+* ****MetaMask**** - Ethereum wallet for transactions.
 
 
 ## Getting Started
@@ -123,11 +123,11 @@ You can use it to execute tasks without needing to remember specific commands. J
       make <command>
  ```
 The Makefile defines the following commands for quick project management:
-* clean: Cleans up build artifacts.
-* remove: Clears Git submodules and libraries, then commits the changes.
-* all: Runs clean, remove, install, update, and build in sequence.
-* install:  Installs required packages without committing.
-* update: Updates dependencies.
+* ****clean:**** Cleans up build artifacts.
+* ****remove:**** Clears Git submodules and libraries, then commits the changes.
+* ****all:**** Runs clean, remove, install, update, and build in sequence.
+* ****install:****  Installs required packages without committing.
+* ****update:**** Updates dependencies.
 * build: Compiles the contracts.
 * test-anvil: Runs tests in a local Anvil environment.
 * test-sepolia:  Runs tests on Sepolia fork using SEPOLIA_RPC_URL.
