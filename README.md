@@ -183,6 +183,8 @@ Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet
 ### Contract Interaction
 After deploying the contract to the testnet or to the local net, you can either directly interact with the contract
 running the scripts.
+* Fund the FundMe contract
+
 
 
 ## Usage
