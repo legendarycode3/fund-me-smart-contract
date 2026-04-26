@@ -184,8 +184,10 @@ Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet
 After deploying the contract to the testnet or to the local net, you can either directly interact with the contract
 running the scripts.
 * Fund the FundMe contract
-   * Direct interaction using terminal:    
-
+   * Direct interaction using terminal:
+    ```shell
+     cast send <FUNDME_CONTRACT_ADDRESS> "fund()" --value 0.1ether --rpc-url $SEPOLIA_RPC_URL --private-key <PRIVATE_KEY>
+    ```
 
 
 ## Usage
