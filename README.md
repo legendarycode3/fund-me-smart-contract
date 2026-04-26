@@ -189,6 +189,10 @@ running the scripts.
      cast send <FUNDME_CONTRACT_ADDRESS> "fund()" --value 0.1ether --rpc-url $SEPOLIA_RPC_URL --private-key <PRIVATE_KEY>
     ```
    * By running the script in the terminal:
+     ``` shell
+        forge script script/Interactions.s.sol:FundFundMe --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY  --broadcast
+     ```
+    
 
 
 ## Usage
