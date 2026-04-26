@@ -193,7 +193,7 @@ running the scripts.
         forge script script/Interactions.s.sol:FundFundMe --rpc-url $SEPOLIA_RPC_URL --private-key $PRIVATE_KEY  --broadcast
      ```
 * Withdraw from the FundMe contract
-
+   * Direct interaction using terminal:
     
 
 
