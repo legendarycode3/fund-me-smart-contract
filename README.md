@@ -198,6 +198,9 @@ running the scripts.
         cast send <FUNDME_CONTRACT_ADDRESS> "withdraw()" --rpc-url $SEPOLIA_RPC_URL --private-key <PRIVATE_KEY>
     ```
    * By running the script in the terminal:
+    ``` shell
+       forge script script/Interactions.s.sol:WithdrawFundMe --rpc-url $SEPOLIA_RPC_URL  --private-key $PRIVATE_KEY  --broadcast
+    ```
     
 
 
