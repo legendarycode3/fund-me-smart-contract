@@ -194,6 +194,9 @@ running the scripts.
      ```
 * Withdraw from the FundMe contract
    * Direct interaction using terminal:
+    ``` shell
+        cast send <FUNDME_CONTRACT_ADDRESS> "withdraw()" --rpc-url $SEPOLIA_RPC_URL --private-key <PRIVATE_KEY>
+    ```
     
 
 
