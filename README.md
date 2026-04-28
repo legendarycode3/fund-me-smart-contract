@@ -313,7 +313,7 @@ $ cast --help
 * ****withdraw():**** Enables the contract owner to be able to pull all funds (Ether) out of the contract to their own wallet.
 
 ### Constants and Variables:
-* ****MINIMUM_USD:**** 
+* ****MINIMUM_USD:****  The minimum amount of USD (in Wei) required for funding (set to 5 USD in the contract).
 
 ### Scripts:
 * `DeployFundme.s.sol`: Main deployment script
