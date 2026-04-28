@@ -316,6 +316,7 @@ $ cast --help
 * ****MINIMUM_USD:****  The minimum amount of USD (in Wei) required for funding (set to 5 USD in the contract).
 * ****i_owner:**** Immutable variable storing the owner’s address.
 * ****funders:****  Array of addresses that have funded the contract.
+* ****addressesToFunded:****
 
 ### Scripts:
 * `DeployFundme.s.sol`: Main deployment script
