@@ -305,14 +305,16 @@ $ cast --help
 * Simulated Price: $2000 ETH/USD
  
 ## 📋Smart Contract Details
-### Functions
+### Functions:
 * ****fund():**** Allows users to contribute funds to the campaign. Requires the sent amount to meet the minimum USD requirement.
 * ****getPrice():**** Retrieves the latest ETH to USD conversion rate using Chainlink's AggregatorV3Interface.
 * ****getVersion():****  Retrieves the version of the Chainlink AggregatorV3Interface being used.
 * ****getConversionRate(uint256 ethAmount):**** Calculates the equivalent USD amount for the provided ETH amount.
 * ****withdraw():**** Enables the contract owner to be able to pull all funds (Ether) out of the contract to their own wallet.
 
-### Scripts
+### Constants and Variables:
+
+### Scripts:
 * `DeployFundme.s.sol`: Main deployment script
 * `HelpingConfig.s.sol`:  Network-specific configurations
 * `MockV3Aggregator.sol`:  Local testing price feed mock
