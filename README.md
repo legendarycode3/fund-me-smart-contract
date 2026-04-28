@@ -311,7 +311,7 @@ $ cast --help
 * ****getVersion():****  Retrieves the version of the Chainlink AggregatorV3Interface being used.
 * ****getConversionRate(uint256 ethAmount):**** Calculates the equivalent USD amount for the provided ETH amount.
 * ****withdraw():**** Enables the contract owner to be able to pull all funds (Ether) out of the contract to their own wallet.
-* ****receive():**** 
+* ****receive():****  Receives Ether and calls fund().
 
 ### Constants and Variables:
 * ****MINIMUM_USD:****  The minimum amount of USD (in Wei) required for funding (set to 5 USD in the contract).
