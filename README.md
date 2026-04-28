@@ -341,7 +341,7 @@ SEPOLIA_PRIVATE_KEY=your_sepolia_private_key
 3. ****Testnet Only:**** This setup is configured for testnet deployment.
 4. ****Audit:**** Have your contracts audited before mainnet deployment.
 5. ****Reentrancy Protection:****   Uses checks-effects-interactions pattern.
-6. Validate Chainlink price feed addresses for the target network.
+6. ****Chainlink pricefeed:**** Validate Chainlink price feed addresses for the target network.
 
 
 ## Project Structure
