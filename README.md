@@ -171,7 +171,7 @@ Head over to [cloud.google.com](https://cloud.google.com/application/web3/faucet
 ```
 
 ### 2. Deployment to Local Anvil network
-1. Start a local Anvil node on one terminal:
+1. ****Start a local Anvil node on one terminal:****
 ```shell
  anvil
 ```
