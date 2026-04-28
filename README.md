@@ -84,8 +84,7 @@ Think of this contract like a donation box:
 * Solidity Compiler, Version ^0.8.18 or higher
 * Foundry development framework for compiling and testing.
 * Chainlink Oracles for price feed integration.
-* Install the MetaMask browser extension to be able to connect it to a test network (e.g., Sepolia).
-* Apart of being able to deploy on local blockchain (like Anvil) .  Access to Ethereum free testnet (Sepolia) for deployment, is needed. Which is typically similar to mainnet deployment.
+* An Ethereum wallet (Metamask) with  Sepolia testnet ETH
 * Etherscan API key for contract verification
 
 ### Installation
