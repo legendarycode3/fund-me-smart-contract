@@ -81,7 +81,7 @@ Think of this contract like a donation box:
 
 
 ### Prerequisites
-* Solidity ^0.8.18
+* Solidity Compiler, Version ^0.8.18 or higher
 * Foundry development framework for compiling and testing.
 * Chainlink for price feed integration.
 * Install the MetaMask browser extension to be able to connect it to a test network (e.g., Sepolia).
