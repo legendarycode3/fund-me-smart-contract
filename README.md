@@ -158,7 +158,7 @@ https://book.getfoundry.sh/
 ##  Deployment
 
 ###  1. Deployment to a Testnet or Mainnet network
-1. Setup environment variables </br>
+1. ****Setup environment variables:**** </br>
 You'll want to set your SEPOLIA_RPC_URL and PRIVATE_KEY as environment variables. You can add them to a .env file </br>
 * PRIVATE_KEY: The private key of your account (like from [metamask](https://metamask.io/). NOTE: FOR DEVELOPMENT, PLEASE USE A KEY THAT DOESN'T HAVE ANY REAL FUNDS ASSOCIATED WITH IT.
 * SEPOLIA_RPC_URL: This is url of the sepolia testnet node you're working with. You can get setup with one for free from  [alchemy](https://www.alchemy.com/)
