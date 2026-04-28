@@ -84,7 +84,8 @@ Think of this contract like a donation box:
 * Solidity Compiler, Version ^0.8.18 or higher
 * Foundry development framework for compiling and testing.
 * Chainlink Oracles for price feed integration.
-* An Ethereum wallet (Metamask) with  Sepolia testnet ETH
+* An Ethereum wallet (Metamask).
+* Sepolia ETH (for testnet deployment).
 * Etherscan API key for contract verification
 
 ### Installation
