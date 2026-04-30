@@ -22,6 +22,8 @@ Built this project to understand in-dept about:
 * Safe ETH withdrawal patterns.
 * Gas optimizations with constant, immutable, and custom errors.
 
+## Project Structure
+
 ## Features
 * ****Minimum Contribution:**** $5 USD equivalent in ETH
 * ****Price Oracle Integration:**** Uses Chainlink ETH/USD price feeds (Sepolia testnet).
