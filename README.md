@@ -29,6 +29,7 @@ Built this project to understand in-dept about:
 * ****Fallback Support:**** Automatically processes direct ETH transfers as donations
 * ****Funder Tracking:**** Records who sent ETH , how much and their contributed amounts.
 * ****Auto ETH Handling:**** receive() and fallback() support direct ETH
+* ****Chainlink Integration:****
 * ****Customizable threshold:**** Minimum USD value can be adjusted.
 * ****Multi-Network Support:**** Deployable on Sepolia, Mainnet, and local Anvil
 * ****Efficient Design:****  Uses libraries (PriceConverter) and custom errors (NotOwner) for gas optimization.
