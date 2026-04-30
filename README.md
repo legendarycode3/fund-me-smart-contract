@@ -23,6 +23,7 @@ Built this project to understand in-dept about:
 * Gas optimizations with constant, immutable, and custom errors.
 
 ## Project Structure
+* `FundMe.sol` : 
 
 ## Features
 * ****Minimum Contribution:**** $5 USD equivalent in ETH
