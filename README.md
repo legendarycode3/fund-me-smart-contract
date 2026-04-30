@@ -135,20 +135,20 @@ You can use it to execute tasks without needing to remember specific commands. J
       make <command>
  ```
 The Makefile defines the following commands for quick project management:
-* ****clean:**** Cleans up build artifacts.
-* ****remove:**** Clears Git submodules and libraries, then commits the changes.
-* ****all:**** Runs clean, remove, install, update, and build in sequence.
-* ****install:****  Installs required packages without committing.
-* ****update:**** Updates dependencies.
-* ****build:**** Compiles the contracts.
-* ****test-anvil:**** Runs tests in a local Anvil environment.
-* ****test-sepolia:****  Runs tests on Sepolia fork using SEPOLIA_RPC_URL.
-* ****snapshot:**** Generates a snapshot of contract states.
-* ****format:****  Formats code according to standards.
-* ****coverage:**** Runs code coverage.
-* ****deploy-anvil:****  Deploys contract locally using Anvil.
-* ****deploy-sepolia:**** Deploys contract to Sepolia network with verification on Etherscan.
-* ****test****: Run tests.
+* ****`clean`:**** Cleans up build artifacts.
+* ****`remove`:**** Clears Git submodules and libraries, then commits the changes.
+* ****`all`:**** Runs clean, remove, install, update, and build in sequence.
+* ****`install`:****  Installs required packages without committing.
+* ****`update`:**** Updates dependencies.
+* ****`build`:**** Compiles the contracts.
+* ****`test-anvil`:**** Runs tests in a local Anvil environment.
+* ****`test-sepolia`:****  Runs tests on Sepolia fork using SEPOLIA_RPC_URL.
+* ****`snapshot`:**** Generates a snapshot of contract states.
+* ****`format`:****  Formats code according to standards.
+* ****`coverage`:**** Runs code coverage.
+* ****`deploy-anvil`:****  Deploys contract locally using Anvil.
+* ****`deploy-sepolia`:**** Deploys contract to Sepolia network with verification on Etherscan.
+* ****`test`****: Run tests.
 
 
 ## Foundry
