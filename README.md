@@ -82,13 +82,13 @@ Think of this contract like a donation box:
 
 
 ### Prerequisites
-* Solidity Compiler, Version ^0.8.18 or higher
+* Solidity Compiler, Version ^0.8.18 or higher.
 * Foundry development framework for compiling and testing.
-* Git
+* Install Git. You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x` .
 * Chainlink Oracles for price feed integration.
 * An Ethereum wallet (Metamask).
 * Sepolia ETH (for testnet deployment).
-* Etherscan API key for contract verification
+* Etherscan API key for contract verification.
 
 ### Installation
   1. Clone the repository: </br>
