@@ -23,7 +23,9 @@ Built this project to understand in-dept about:
 * Gas optimizations with constant, immutable, and custom errors.
 
 ## Project Structure
-* `FundMe.sol` : Core contract implementing funding and withdrawal functions. It verifies the minimum funding
+* `FundMe.sol` : Core contract implementing funding and withdrawal functions. It verifies the minimum funding threshold based on real-time ETH/USD prices fetched from Chainlink's price feed.
+
+
 
 ## Features
 * ****Minimum Contribution:**** $5 USD equivalent in ETH
